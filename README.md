@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @issamaii
+- 👀 I’m interested in learning new things, machines, and creating stufs
+- 🌱 I’m currently learning C/C++ for my robotics classes :D
+- 😄 Pronouns: she/her
